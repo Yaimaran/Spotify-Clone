@@ -1,1 +1,1 @@
-# This is a Spotify clone project
+# This is a スポティファイクローン Spotify-clone project
